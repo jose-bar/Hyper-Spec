@@ -1,4 +1,4 @@
-Cluster Size,Clustered Spectra Ratio,Incorrect Clustering Ratio,Completeness,Runtime
+Cluster Width Ratio,Clustered Spectra Ratio,Incorrect Clustering Ratio,Completeness,Runtime
 1,0.5771,0.3749,-2.3476,43.8410
 0.5,0.5773,0.3752,-2.3479,40.1200
 2.0,0.5771,0.3750,-2.3476,48.2000
